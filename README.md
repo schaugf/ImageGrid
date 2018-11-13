@@ -5,12 +5,6 @@ Create a grid of images from a coordinate file and set of corresponding images.
 ## Examples
 
 The coordinate file should be saved as a csv file without rownames or headers.
-
-| x1 | y1 |
-| x2 | y2 |
-| x3 | y3 |
-
-
 The imagedir should point to a directory on the local filesystem which contains the images that correspond to the rows in the coordfile.
 Importantly, this assumes that the order in which files are listred from the directory is the same as how they are ordered in the csv.
 
