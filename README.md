@@ -11,6 +11,7 @@ Importantly, this assumes that the order in which files are listred from the dir
 The output will look something like this:
 ![ImageGrid](example_imagegrid.png)
 
+This image will appear in upcoming paper by Schau, et al "Variational Autoencoding Tissue Reponse to Microenvironment Perturbation", International Society for Optics and Photonics, 2018
 
 ## Usage
 
